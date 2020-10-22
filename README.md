@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# FREEDOC - database exercises with Ruby on Rails
 
-Things you may want to cover:
+### Dans cet application: 
+   ** Un rendez-vous appartient à un docteur**
+   ** Un rendez-vous appartient à un patient **
+   ** Un docteur peut avoir plusieurs rendez-vous **
+   ** Un docteur peut avoir plusieurs patients, à travers les rendez-vous **
+   ** Un patient peut avoir plusieurs rendez-vous **
+   ** Un patient peut avoir plusieurs docteurs, à travers les rendez-vous.**
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
